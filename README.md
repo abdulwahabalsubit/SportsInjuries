@@ -1,13 +1,12 @@
 # Sports Injuries
 <p>In this project, I will talk about stadium injuries, their causes, who are most vulnerable to injury, and how to avoid and treat injury.</p>
 
-```html
 <font color="red">
 Q1. What is the main cause of sports injuries? in red
 <br>
 Q2. Who are the most injured players?
 </font>
-```
+
 <br>
 ## URL: 
 <br>
